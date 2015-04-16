@@ -19,3 +19,4 @@ categories: main
 - Pepper
 - steak
 - Carrots
+- Jalapeno chilis
